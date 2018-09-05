@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# presentations and videos
+*.log
+*.mp4
+*.avi
+*.ppt
+*.pptx
+*.doc
+*.docx
+
 # Distribution / packaging
 .Python
 build/
